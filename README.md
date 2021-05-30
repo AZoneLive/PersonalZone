@@ -1,3 +1,3 @@
-# AZone
+# PersonalZone
 
-Check releases: https://github.com/AZoneLive/PersonalZone/releases
+**Please check releases here: https://github.com/AZoneLive/PersonalZone/releases**
