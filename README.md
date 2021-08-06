@@ -1,6 +1,8 @@
 # PersonalZone - Modified, Working AnimeZone Release
+**AnimeZone is no longer supported! Please use an alternative instead! PersonalZone is only a temporary fix and will eventually stop working. Check r/animeapp on Reddit for possible alternatives.**
 
-**Please check releases here: https://github.com/AZoneLive/PersonalZone/releases**
+
+**For PersonalZone, check releases here: https://github.com/AZoneLive/PersonalZone/releases**
 
 **Once installed, visit Settings -> App Settings -> GogoAnime -> Set domain as `gogoanime.ai` or `gogoanime.sh` for infinite loading fix**
 
