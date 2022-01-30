@@ -9,5 +9,5 @@ If you're coming from the original AnimeZone, please uninstall it before install
 
 As much as it is desired, updating PersonalZone any further is, regrettably, an unlikely impossibility. With AnimeZone's core being built on the Flutter development framework (and more specifically, compiled on top of the Dart layer), it is nearly impossible to reverse engineer without extensive in-depth knowledge of undocumented Dart formats.<br/>
 
-If I ever feel the motivation to create my own, actually, Personal app from the ground up, I will post an update. But for now, thanks for all of your support and many thanks to the AnimeZone team for the amazing application. It's been an honor. :wave:
-- 2022, AZoneLive
+If I ever feel the motivation to create my own, actually, Personal app from the ground up, I will post an update. But for now, thanks for all of your support and many thanks to the AnimeZone team for the amazing application. It's been an honor. :wave:\
+\- 2022, AZoneLive
